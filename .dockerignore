@@ -1,0 +1,10 @@
+frames/
+images/
+*.jpg
+*.png
+
+cameras.txt
+points3D.txt
+images.txt
+database.db
+transforms.json

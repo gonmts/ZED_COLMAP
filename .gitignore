@@ -1,0 +1,17 @@
+images/*
+!images/.gitkeep
+
+frames/*
+!frames/.gitkeep
+
+cameras.txt
+points3D.txt
+images.txt
+database.db
+transforms.json
+
+.idea/
+/database.db-shm
+/database.db-wal
+
+**/__pycache__
